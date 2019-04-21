@@ -22,10 +22,10 @@ spring:
     password: 
     timeout: 10000
   rabbitmq:
-    host: 193.112.100.103
+    host: 127.0.0.1
     port: 5672
-    username: yukong
-    password: x19961010
+    username: guest
+    password: guest
   http:
     multipart:
       max-file-size: 1000MB
@@ -36,7 +36,7 @@ redis:
 ribbon:
   eager-load:
     enabled: true
-    clients: pig-auth,pig-upms-service
+    clients: panda-auth,panda-user-service
   Httpclient:
     enabled: true
   OkHttp:
