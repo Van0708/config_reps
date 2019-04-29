@@ -83,5 +83,5 @@ oss:
     aliyunEndPoint: oss-cn-hangzhou.aliyuncs.com
     aliyunAccessKeyId: LTAIzpgow5PWEhA1
     aliyunAccessKeySecret: kegpx7jujo64ZeqgiWDEfjVk1g6FzV
-    aliyunBucketName: bucket-yytour-test
+    aliyunBucketName: bucket-yytour-prod
     aliyunPrefix: yycloud
