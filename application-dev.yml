@@ -73,3 +73,15 @@ hystrix:
         isolation:
           thread:
             timeoutInMilliseconds: 60000
+sms:
+  tencent-cloud:
+    appId: 1400163191
+    appKey: 07831d2dacf5878e875199fdb1757c16
+oss:
+  ali-cloud:
+    aliyunDomain: http://oss-cn-hangzhou.aliyuncs.com
+    aliyunEndPoint: oss-cn-hangzhou.aliyuncs.com
+    aliyunAccessKeyId: LTAIzpgow5PWEhA1
+    aliyunAccessKeySecret: kegpx7jujo64ZeqgiWDEfjVk1g6FzV
+    aliyunBucketName: bucket-yytour-test
+    aliyunPrefix: yycloud
