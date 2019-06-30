@@ -77,6 +77,9 @@ sms:
   tencent-cloud:
     appId: 1400163191
     appKey: 07831d2dacf5878e875199fdb1757c16
+  ali-cloud:
+      appId: LTAIzpgow5PWEhA1
+      appKey: kegpx7jujo64ZeqgiWDEfjVk1g6FzV
 oss:
   ali-cloud:
     aliyunDomain: http://oss-cn-hangzhou.aliyuncs.com
@@ -85,3 +88,6 @@ oss:
     aliyunAccessKeySecret: kegpx7jujo64ZeqgiWDEfjVk1g6FzV
     aliyunBucketName: bucket-yytour-test
     aliyunPrefix: yycloud
+tb:
+  service:
+    mobile: 18321080158, 18621001286
